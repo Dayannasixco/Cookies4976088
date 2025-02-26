@@ -22,8 +22,8 @@ namespace Cookies_4976088
         protected void btnConfirm_Click(object sender, EventArgs e)
         {
             //Save the cookies.
-            Response.Cookies["ddlCategory"].Value = ddlCategory.SelectedValue;
-            Response.Cookies["ddlSupplier"].Value = ddlSupplier.SelectedValue;
+            Response.Cookies["ddlCategory"].Value = ddlCategory.Text;
+            Response.Cookies["ddlSupplier"].Value = ddlSupplier.Text;
             Response.Cookies["strProduct"].Value = txtProduct.Text;
             Response.Cookies["strDescription"].Value = TextArea1.InnerText;
             Response.Cookies["strImage"].Value = txtImage.Text;
@@ -32,7 +32,7 @@ namespace Cookies_4976088
             Response.Cookies["byNumberOnOrder"].Value = txtNumberOnOrder.Text;
             Response.Cookies["byReorderLevel"].Value = txtReorderLevel.Text;
             // Go to the confirmation page.
-            Response.Redirect("ProductConfirmCookies.aspx");
+            Response.Redirect("ConfirProducto.aspx");
 
         }
     }

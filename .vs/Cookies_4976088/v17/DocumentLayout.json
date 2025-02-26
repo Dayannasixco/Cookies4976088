@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\aspxCookies\\Cookies_4976088\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05F2A70A-4094-4B4F-BA76-5457034F4E03}|Cookies_4976088\\Cookies_4976088.csproj|c:\\users\\dell\\desktop\\aspxcookies\\cookies_4976088\\cookies_4976088\\cookies.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05F2A70A-4094-4B4F-BA76-5457034F4E03}|Cookies_4976088\\Cookies_4976088.csproj|c:\\users\\dell\\desktop\\aspxcookies\\cookies_4976088\\cookies_4976088\\confirproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F2A70A-4094-4B4F-BA76-5457034F4E03}|Cookies_4976088\\Cookies_4976088.csproj|solutionrelative:cookies_4976088\\confirproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F2A70A-4094-4B4F-BA76-5457034F4E03}|Cookies_4976088\\Cookies_4976088.csproj|C:\\Users\\DELL\\Desktop\\aspxCookies\\Cookies_4976088\\cookies_4976088\\confirproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{05F2A70A-4094-4B4F-BA76-5457034F4E03}|Cookies_4976088\\Cookies_4976088.csproj|solutionrelative:cookies_4976088\\confirproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F2A70A-4094-4B4F-BA76-5457034F4E03}|Cookies_4976088\\Cookies_4976088.csproj|C:\\Users\\DELL\\Desktop\\aspxCookies\\Cookies_4976088\\cookies_4976088\\cookies.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05F2A70A-4094-4B4F-BA76-5457034F4E03}|Cookies_4976088\\Cookies_4976088.csproj|solutionrelative:cookies_4976088\\cookies.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,24 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ConfirProducto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\aspxCookies\\Cookies_4976088\\Cookies_4976088\\ConfirProducto.aspx.cs",
+              "RelativeDocumentMoniker": "Cookies_4976088\\ConfirProducto.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\aspxCookies\\Cookies_4976088\\Cookies_4976088\\ConfirProducto.aspx.cs",
+              "RelativeToolTip": "Cookies_4976088\\ConfirProducto.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:57:26.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfirProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\aspxCookies\\Cookies_4976088\\Cookies_4976088\\ConfirProducto.aspx",
+              "RelativeDocumentMoniker": "Cookies_4976088\\ConfirProducto.aspx",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\aspxCookies\\Cookies_4976088\\Cookies_4976088\\ConfirProducto.aspx",
+              "RelativeToolTip": "Cookies_4976088\\ConfirProducto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T20:01:45.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Cookies.aspx.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\aspxCookies\\Cookies_4976088\\Cookies_4976088\\Cookies.aspx.cs",
               "RelativeDocumentMoniker": "Cookies_4976088\\Cookies.aspx.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\aspxCookies\\Cookies_4976088\\Cookies_4976088\\Cookies.aspx.cs",
               "RelativeToolTip": "Cookies_4976088\\Cookies.aspx.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBsAAABHAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T02:48:46.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Cookies.aspx",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\aspxCookies\\Cookies_4976088\\Cookies_4976088\\Cookies.aspx",
               "RelativeDocumentMoniker": "Cookies_4976088\\Cookies.aspx",
@@ -43,7 +81,8 @@
               "RelativeToolTip": "Cookies_4976088\\Cookies.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-21T01:25:16.104Z"
+              "WhenOpened": "2025-02-21T01:25:16.104Z",
+              "EditorCaption": ""
             }
           ]
         }
